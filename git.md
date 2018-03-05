@@ -1,4 +1,5 @@
 # About git
+![inline](bad_versioning.png)
 
 ---
 
@@ -48,3 +49,7 @@
 You can ignore unwanted files (or types) in `.gitignore`
 
 ![inline](gitignore_2.png)
+
+---
+
+# Thanks!
