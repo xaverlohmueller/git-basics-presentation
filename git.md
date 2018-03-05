@@ -19,17 +19,17 @@
 ---
 
 # 1. Stage Files
-![100% original](git_stage.png)
+![inline](git_stage.png)
 
 ---
 
 # 2. Commit Files
-![100% original](git_commit.png)
+![inline](git_commit.png)
 
 ---
 
 # 3. Push Files
-![100% original](git_push.png)
+![inline](git_push.png)
 
 ---
 
@@ -39,7 +39,7 @@
 ---
 
 # `.gitignore`
-![100% original](gitignore_1.png)
+![inline](gitignore_1.png)
 
 ---
 
@@ -47,4 +47,4 @@
 
 You can ignore unwanted files (or types) in `.gitignore`
 
-![100% original](gitignore_2.png)
+![inline](gitignore_2.png)
