@@ -35,3 +35,16 @@
 
 # Make sure to review your changes
 ![inline](git_review_history.png)
+
+---
+
+# `.gitignore`
+![100% original](gitignore_1.png)
+
+---
+
+# `.gitignore`
+
+You can ignore unwanted files (or types) in `.gitignore`
+
+![100% original](gitignore_2.png)
